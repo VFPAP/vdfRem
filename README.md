@@ -1,4 +1,4 @@
-# vdfRem
+# Vodafone TV Remote Control
 Python script to control Vodafone TV, MEO TV (and possible NOS TV) without the TV remote control.
 
 
